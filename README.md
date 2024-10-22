@@ -1,8 +1,4 @@
 # RevitMongoDB
-Revit add-in to export and import Revit door data to MongoDB 
 
-* Developed by Musa Mthimunye
+Autodesk Revit add-in to export and import Revit door data to MongoDB 
 
-### What do I need to use? ###
-
-* Revit 
